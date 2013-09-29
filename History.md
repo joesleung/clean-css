@@ -4,6 +4,7 @@
 * Adds simplified and more advanced text escaping / restoring via `EscapeStore` class.
 * Adds simplified and much faster empty elements removal.
 * Adds CSS tokenizer which will make it possible to optimize content by reordering and/or merging selectors.
+* Adds basic optimizer removing duplicate selectors from a list.
 
 1.1.6 / 2013-10-26
 ==================
